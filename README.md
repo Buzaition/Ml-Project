@@ -9,6 +9,12 @@ https://storage.googleapis.com/kagglesdsdata/datasets/1546318/2549419/marketing_
 
 links for our Datasets:
 task1: https://www.kaggle.com/datasets/gova26/airpressure
+
+
 task2: https://www.kaggle.com/datasets/uciml/adult-census-income
+
+
 task3: https://www.kaggle.com/datasets/dev0914sharma/customer-clustering/data?select=segmentation+data.csv
+
+
 task4: https://drive.google.com/drive/folders/1VJL7-lcfTO3HdiO3k-oxifmxfLRK2__t?usp=sharing
